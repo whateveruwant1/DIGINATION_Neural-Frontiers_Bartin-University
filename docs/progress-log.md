@@ -1,1 +1,1 @@
-Week 1: UI design draft in progress.
+Week 1: Make 4 menu (Home, Courses, Tutor AI(ITS), Teacher Assist Tools.

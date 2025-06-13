@@ -13,5 +13,5 @@ Target Pengguna: Siswa SMP & SMA, Guru & sekolah, Orang tua murid, Institusi pen
 Keunggulan Eduvance: Pembelajaran personal & adaptif, Dukungan guru otomatis, Data analitik untuk evaluasi, Mudah diakses melalui web & aplikasi.
 
 NOTE: 1. Repositori ini berisi dokumentasi proyek, progres pengembangan, dan prototype awal dari Eduvance. 
-      2. Prototype awal (UI Design) dapat diakses di: [Figma Link]
+      2. Prototype awal (UI Design) dapat diakses di: design/figma-link.txt
 

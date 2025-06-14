@@ -16,6 +16,9 @@ Keunggulan Eduvance: Pembelajaran personal & adaptif, Dukungan guru otomatis, Da
 NOTE: 1. Repositori ini berisi dokumentasi proyek, progres pengembangan, dan prototype awal dari Eduvance. 
       2. Prototype awal (UI Design) dapat diakses di: design/figma-link.txt
 
+
+
+
 ENGLISH:
 Eduvance is an AI-based e-learning innovation designed to address the main challenges of education in Indonesia: low awareness of students' independent learning and lack of qualified teachers. The platform is aimed at junior and senior high school students, and provides effective tools for teachers and parents in the learning process.
 
